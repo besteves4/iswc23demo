@@ -596,6 +596,25 @@ section {
   color: #009970;
 }
 
+.portfolio .content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.portfolio .content ul li {
+  padding: 10px 0 0 28px;
+  position: relative;
+  font-size: 14px;
+}
+
+.portfolio .content ul i {
+  left: 0;
+  top: 7px;
+  position: absolute;
+  font-size: 20px;
+  color: #009970;
+}
+
 .about .content p:last-child {
   margin-bottom: 0;
 }
